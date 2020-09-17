@@ -12,7 +12,7 @@
 
 
 
-Hi, I'm Shoxruxbek Maxmudoov, a Mobile Developer 🚀 from Uzbekistan, currently, I'm a Community Team Member 🙍🏽‍♂️ [@SSD](https://github.com/orgs/Single-Solid-Software-development/dashboard)
+Hi, I'm Shoxruxbek Maxmudoov, a Mobile Developer 🚀 from Uzbekistan.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
