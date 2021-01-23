@@ -3,7 +3,7 @@
 
 Hi, I'm Shoxruxbek Maxmudoov, a Mobile Developer 🚀 from Uzbekistan.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <!--<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />-->
   
 **Talking about Personal Stuffs:**
 
