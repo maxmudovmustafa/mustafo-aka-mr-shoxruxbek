@@ -26,7 +26,7 @@ Hi, I'm Shoxruxbek Maxmudoov, a Mobile Developer 🚀 from Uzbekistan.
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width=7%>
   <img src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" width=7%>
   <img src="https://img.favpng.com/19/25/8/java-programming-language-programmer-computer-programming-logo-png-favpng-fhppYS113xSPzB7babpSMhrfP.jpg" width=7%>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" width=7%>
+  
   <img src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg" width=7%>
 
   <!--<img src="" width=7%>-->
