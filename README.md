@@ -1,6 +1,4 @@
 
-
-## About me
 ```kotlin
 package android
 
@@ -17,6 +15,18 @@ class About : Me
                 "position": "Android developer"         
             }
         }
+    }
+    
+    fun workingOn(isCleanCode): Boolean {
+        val refactoring = true
+        val redesign = true
+        
+        if (isCleanCode && refactoring && redesign) {
+            return true
+        }
+        
+        return false
+        
     }
 
 }
